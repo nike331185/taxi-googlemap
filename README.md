@@ -1,7 +1,6 @@
 # react taxi map project
 
-Inline-style: 
-![alt text](https://github.com/nike331185/taxi-googlemap.git)
+
 
 
 #### Components:
